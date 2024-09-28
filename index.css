@@ -49,8 +49,9 @@ body {
   height: 400px;
   background-image: url('./images/gift.jpg');
   background-size: cover;
-  border-radius: 10px;
   border: 6px solid #FFB200;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px #071952;
 }
 
 .cheers-gift {
